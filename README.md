@@ -1,5 +1,6 @@
 Free CPU benchmark software.
 
+
 WINDOWS用CPU跑分。
 
 可以进行单线程和多线程跑分。
