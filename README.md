@@ -1,1 +1,1 @@
-Free CPU benchmark software by me.
+Free CPU benchmark software.
